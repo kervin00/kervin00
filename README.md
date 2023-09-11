@@ -1,5 +1,6 @@
-    <h2 >Hello I'm Kevin! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
+<h2>Hey, Hello I'm Kevin! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
 <br/>
+
 I am a self-taught Web Developer, primarily focusing on Back-end using Laravel PHP Framework. <br>
 
 Until this day I keep myself updated with the evolution of coding. <br><br>
