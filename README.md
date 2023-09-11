@@ -3,7 +3,7 @@
 I am a self-taught Web Developer, primarily focusing on Back-end using Laravel PHP Framework. <br>
 
 Until this day I keep myself updated with the evolution of coding. <br><br>
-###<h2>About Me</h2>
+<h2>About Me</h2>
 -✌️ Enjoy to do programming and sharing knowledge <br> <br>
 
 -❤️ Love to writing code and learning new features <br> <br>
