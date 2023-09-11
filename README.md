@@ -1,5 +1,9 @@
+<h2>Hey, Hello I'm Kevin! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
+<br/>
+
 <h3 align="center">A passionate Software developer from Philippines</h3>
 
+- 🌱 I’m currently learning **React, Angular, CI/CD , Docker**
 
 
 <h3 align="left">Languages and Tools:</h3>
